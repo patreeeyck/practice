@@ -12,3 +12,5 @@ console.log("This is a clone");
 
 console.log("trying to clone Githubrepository");
 console.log("try to update my local repository");
+
+console.log("done");
